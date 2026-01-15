@@ -1,5 +1,4 @@
 # swift-mlx-server
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/swift-mlx-server&type=Date)](https://star-history.com/#rudrankriyam/swift-mlx-server&Date)
 
 
 A Swift-based server application designed to provide an OpenAI-compatible text completion API.
@@ -33,3 +32,5 @@ Replace `hf/model/id` with the Hugging Face model ID. Adjust the host and port a
 - repetition_penalty: (Optional) Applies a penalty to repeated tokens. Defaults to 1.0.
 
 - repetition_context_size: (Optional) The size of the context window for applying repetition penalty. Defaults to 20.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/swift-mlx-server&type=Date)](https://star-history.com/#rudrankriyam/swift-mlx-server&Date)

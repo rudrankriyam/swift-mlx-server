@@ -1,4 +1,6 @@
 # swift-mlx-server
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/swift-mlx-server&type=Date)](https://star-history.com/#rudrankriyam/swift-mlx-server&Date)
+
 
 A Swift-based server application designed to provide an OpenAI-compatible text completion API.
 
